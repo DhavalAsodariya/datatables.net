@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w7G9YqbnrmiHvXR9vIcJrUVSU/YgixCq/wncJeFgiOW9zDLCjejvEMUgodbxAVp8GZzj84ppYKqYSOfg1o7OdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dhava\\source\\repos\\datatables.net\\src\\datatables.net\\datatables.net\\DataTables.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhava\\.nuget\\packages\\system.linq.dynamic.core\\1.2.18\\system.linq.dynamic.core.1.2.18.nupkg.sha512"
+  ],
+  "logs": []
+}
